@@ -1,0 +1,5 @@
+Model/*
+.venv
+Data/*
+
+!Model/README.txt
