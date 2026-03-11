@@ -1,7 +1,7 @@
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-from create_vector_db import open_vector_db
+from open_vector_db import open_vector_db
 from evaluation import evaluation
 
 
